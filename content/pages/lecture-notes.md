@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and all available
+  lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Introduction and the money multiplier via babysitters
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_012s11_lec01))
+({{% resource_link 85395a89-42c9-f9ea-2c7e-0a7a55509622 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Germany and Zimbabwe: Monetary policy and the velocity theory of money
 The IS-LM model
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_012s11_lec03))
+({{% resource_link 34a6d1f2-33ff-0174-f979-6a0c17f08390 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Japan, Ireland, and the Great Depression: Applications of the IS-LM model: Fisca
 AD-AS and long run adjustment: The connection to inflation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_012s11_lec05))
+({{% resource_link c0cf5ff3-0290-e57f-a0c5-72f1e1019415 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ AD-AS and long run adjustment: The connection to inflation
 Central bank accounting
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mit15_012s11_lec06))
+({{% resource_link 2e92a9f3-182f-68a2-9b50-931823b35d1a "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Central bank accounting
 World through inflation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_012s11_lec07))
+({{% resource_link 2f6fa888-5539-3c45-90f9-ccc107313dea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Banking crisis and accounting
 Theories of nominal exchange rates: Short-run and long-run
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit15_012s11_lec09))
+({{% resource_link ecd0d9de-1366-eaad-1f0f-43d3bd7aa6d3 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Self-fulfilling currency crises (MIT: Malaysia, Indonesia, and Thailand)
 Exchange-rate regimes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_012s11_lec12))
+({{% resource_link 847b7735-38da-d6fd-5ac5-8ee813198c76 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Exchange-rate regimes
 Capital controls, exchange rate regimes, and unemployment: The unholy trinity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_012s11_lec13))
+({{% resource_link 0ce72ec6-6875-62ce-f4de-578ca3ba5e20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

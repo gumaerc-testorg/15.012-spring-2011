@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, related courses, requirements, grading, and class participation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ Related Courses
 Course Requirements
 -------------------
 
-Before each class, you are expected to read at least the relevant case and usually an extra article and/or note. All required readings are cited in the [readings]({{< baseurl >}}/pages/readings) section of the course. This list also includes optional readings. These optional readings are meant for those interested in further reading or for those who want a different reference for the tools and material covered in class. In that spirit, there are three optional text books which you can use if you want more detail on any of the theories covered in class:
+Before each class, you are expected to read at least the relevant case and usually an extra article and/or note. All required readings are cited in the {{% resource_link 9dbde064-1235-33c6-fef1-b90fe38540ce "readings" %}} section of the course. This list also includes optional readings. These optional readings are meant for those interested in further reading or for those who want a different reference for the tools and material covered in class. In that spirit, there are three optional text books which you can use if you want more detail on any of the theories covered in class:
 
 \[MFS\] = Mankiw, N. Gregory, and Laurence Ball. _Macroeconomics and the Financial System_. Worth Publishers, 2010. ISBN: 9781429253673.
 
@@ -38,7 +40,7 @@ Before each class, you are expected to read at least the relevant case and usual
 
 \[KOM\] = Krugman, Paul R., Maurice Obstfeld, and Marc Melitz. _International Economics: Theory and Policy_. Prentice Hall, 2011. ISBN: 9780132146654.
 
-This is a case/readings based class. There is no final exam. Instead, there will be a short graded assignment, and two classes will be reserved for debates, which are detailed in the [assignments]({{< baseurl >}}/pages/assignments) section.
+This is a case/readings based class. There is no final exam. Instead, there will be a short graded assignment, and two classes will be reserved for debates, which are detailed in the {{% resource_link fb2b0d31-6aaa-21b1-fc5a-010e80f23754 "assignments" %}} section.
 
 Grading
 -------

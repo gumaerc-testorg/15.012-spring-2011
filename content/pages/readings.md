@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a complete list of required and optional readings
+  for the course, comprised of case studies and textbook readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

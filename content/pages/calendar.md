@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, assignment
+  due dates, and in-class debates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

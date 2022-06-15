@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a short individual assignment and information on
+  the in-class course debates.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: fb2b0d31-6aaa-21b1-fc5a-010e80f23754
 
 The short assignment is individual - it can be worked on in groups, but each person has to hand in an individual write up for individual grades.
 
-Problem Set 1: The IS-LM Model ([PDF]({{< baseurl >}}/resources/mit15_012s11_assn01))
+Problem Set 1: The IS-LM Model ({{% resource_link 8bc149fb-7e7f-b8e1-eb21-9456479a959d "PDF" %}})
 
 Debates
 -------
