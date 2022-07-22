@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a complete list of required and optional readings
+  for the course, comprised of case studies and textbook readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9dbde064-1235-33c6-fef1-b90fe38540ce
 ---
